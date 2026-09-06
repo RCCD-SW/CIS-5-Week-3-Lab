@@ -7,7 +7,7 @@
 int main() {
   const int CURRENT_YEAR = 2026;
 
-  // TODO: declare + initialize
+  // TODO: declare and initialize on the same line
   // std::string name = ...;
   // int age = ...;
   // double height_m = ...;
@@ -15,7 +15,7 @@ int main() {
   // bool student = ...;
 
   std::cout << "=== About me ===\n";
-  // TODO: labeled prints for every variable + CURRENT_YEAR
+  // TODO: labeled prints from the variable names + CURRENT_YEAR
 
   return 0;
 }
