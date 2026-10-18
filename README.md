@@ -54,12 +54,12 @@ Year: 2026
 - Repo + short demo + Canvas
 
 ## Rubric (100)
+
 | Criterion | Pts |
 |-----------|----:|
-| Runs correctly on a supported path | 40 |
-| Meets prompt requirements | 30 |
-| Clear labeled output from the names | 15 |
-| GitHub + short demo video | 15 |
+| Code submitted that does the work | 50 |
+| Video explanation | 50 |
+
 
 ## Scope fence
 One file. No loops, extra functions, or pointers. Do not use `string` for a number just to dodge a type. You do not need `sizeof` or bits printed — we talked about bytes so you know why a type has a size, not so you measure it this week.
